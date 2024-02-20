@@ -1,6 +1,6 @@
 ---
 title: "The Quarto Report Again"
-author: "Justine"
+
 format: html
 editor: visual
 embed-resources: true
