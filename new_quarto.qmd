@@ -1,6 +1,6 @@
 ---
 title: "The Quarto Report Again"
-
+author: Person B
 format: html
 editor: visual
 embed-resources: true
